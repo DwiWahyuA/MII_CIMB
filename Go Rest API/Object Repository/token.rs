@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>token</name>
+   <tag></tag>
+   <elementGuidId>d3399155-2e45-422d-94c5-5f009d836f67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.user-select-all</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Token'])[1]/following::td[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>486e4ed9-63e0-4b1d-8bde-f978a9066c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>user-select-all</value>
+      <webElementGuid>4f91dcca-7a3c-4d08-a34f-4a9c7f5c0afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>eb6dd1d2b4bc87a0d51884a6efc53e669b7394cdae02ee44f199e663f07de4ce</value>
+      <webElementGuid>0e43d651-9bf5-4a27-9dad-444b15f79daf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container pt-3&quot;]/div[@class=&quot;table-responsive mt-4&quot;]/form[@class=&quot;grid-data-form&quot;]/table[@class=&quot;table table-striped table-bordered table-hover&quot;]/tbody[1]/tr[1]/td[@class=&quot;user-select-all&quot;]</value>
+      <webElementGuid>ad93dfef-5078-472b-bf0e-76604b406cae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Token'])[1]/following::td[1]</value>
+      <webElementGuid>461d18c6-b3b8-40cd-bbee-54d5eb2b663a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::td[2]</value>
+      <webElementGuid>4cbc28c2-b5c8-43ee-8f05-cab31f67e3c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Never'])[1]/preceding::td[1]</value>
+      <webElementGuid>79804cfc-4ee4-431f-84bf-a18d958eb967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Go Rest 2024'])[1]/preceding::td[5]</value>
+      <webElementGuid>20953074-518c-4f13-97bf-02b14d2c08f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='eb6dd1d2b4bc87a0d51884a6efc53e669b7394cdae02ee44f199e663f07de4ce']/parent::*</value>
+      <webElementGuid>9b29a93b-b6bb-4ace-9d1b-5bbb1ba30e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>2ed71826-a382-4975-b9a7-367e68268e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'eb6dd1d2b4bc87a0d51884a6efc53e669b7394cdae02ee44f199e663f07de4ce' or . = 'eb6dd1d2b4bc87a0d51884a6efc53e669b7394cdae02ee44f199e663f07de4ce')]</value>
+      <webElementGuid>3f631b2c-deb2-41a6-9146-57c98b83508c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

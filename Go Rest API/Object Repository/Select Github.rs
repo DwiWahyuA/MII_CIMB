@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select Github</name>
+   <tag></tag>
+   <elementGuidId>99fc8f01-d840-477c-a570-8add634aa4e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-sm-block.btn-xs-block.btn-outline-warning.me-2.mb-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Github')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1be4babe-1d61-4797-81d2-194ad5e63b2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm-block btn-xs-block btn-outline-warning me-2 mb-3</value>
+      <webElementGuid>92620d49-cf43-44e1-968b-71d1db53468f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-turbolinks</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e4827cc6-dc12-405a-8d33-434bb340f50b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/oauth/github</value>
+      <webElementGuid>296570ae-bfbf-43c4-b952-e5faf104e7b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Github</value>
+      <webElementGuid>4f134d65-b52f-4d73-a418-2d56b26888ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container pt-3&quot;]/div[@class=&quot;text-center mt-5 mb-5&quot;]/a[@class=&quot;btn btn-sm-block btn-xs-block btn-outline-warning me-2 mb-3&quot;]</value>
+      <webElementGuid>53da9d35-5fab-4872-9818-39fb690d5df4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Github')]</value>
+      <webElementGuid>af211b28-5559-47ea-98fa-f1b693b9d4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='login with your social account'])[1]/following::a[1]</value>
+      <webElementGuid>86129710-d571-4c6d-805d-8e72157599a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication Required'])[1]/following::a[1]</value>
+      <webElementGuid>19e66d7e-5f29-442c-82c3-0e1210759cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/preceding::a[1]</value>
+      <webElementGuid>dea2eab8-3749-4f0b-8415-a06de4589c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microsoft'])[1]/preceding::a[2]</value>
+      <webElementGuid>8ae75674-686e-466e-8ca4-95f20e8dd4d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Github']/parent::*</value>
+      <webElementGuid>be386c13-2e86-41db-960a-dd9240f49ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/oauth/github')]</value>
+      <webElementGuid>df69ee21-6ae2-4cb0-b277-5fcd5923545f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a</value>
+      <webElementGuid>e072b4d7-0276-4f94-b8ea-db89ba13a448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/oauth/github' and (text() = ' Github' or . = ' Github')]</value>
+      <webElementGuid>14f513cd-588a-4985-8dd1-eb871fc82415</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
